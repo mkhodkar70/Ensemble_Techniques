@@ -16,8 +16,8 @@ Libraries: scikit-learn, xgboost, matplotlib, seaporn, numpy, pandas
 
 2) Automation of visa approval process (EasyVisa): <br>
 A variety of ML-based classification models have been leveraged to automate the process of screening work visas. Cross-validation and
-hyperparameter tuni ghave been adopted to optimze the models and resolve their potential overfitting problem. Ultimately, the models
-have been compared against each other, and the most accurate and skilled ones in identifying qualified workers whose visas should get
+hyperparameter tuning have been adopted to optimze the models and resolve their potential overfitting problem. Ultimately, the models
+have been compared against each other, and the most accurate and skilled ones in identifying qualified workers, whose visas should get
 approved, have been selected. <br>
 Key tools: Bagging Classifiers, Random Forests, Adaptive and Gradient Boosting, XGBoost, Stacking Classifiers, hyperparameter tuning <br>
 Libraries: scikit-learn, xgboost, matplotlib, seaporn, numpy, pandas
